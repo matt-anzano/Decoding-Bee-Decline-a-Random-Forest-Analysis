@@ -4,7 +4,7 @@
 
 In this project, is studied bee colony losses in the United States over the period from 2015 to 2022. Using *Random Forest*, predictions of colony losses are obtained, and then, through the use of *SHAP Values*, we delve into the relationships between the response variable and the independent variables.
 
-# Methods
+## Methods
 - *Random Forest*
 - *SHAP Values*
 
