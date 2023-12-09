@@ -7,6 +7,7 @@ In this project, is studied bee colony losses in the United States over the peri
 ## Methods
 - *Random Forest*
 - *SHAP Values*
+- *SARIMAX Models*
 
 
 ## Results and Output
