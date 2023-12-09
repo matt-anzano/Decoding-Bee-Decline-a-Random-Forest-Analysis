@@ -11,4 +11,4 @@ In this project, is studied bee colony losses in the United States over the peri
 
 
 ## Results and Output
-The *Random Forest* yields accurate predictions, and through the *SHAP Values*, it is demonstrated that the decline in the last years is decreasing, especially showcasing the effective measures taken to combat winter decline.
+The *Random Forest* yields accurate predictions, and through the *SHAP Values*, it is demonstrated that the decline in the last years is decreasing, especially showcasing the effective measures taken to combat winter decline. 
